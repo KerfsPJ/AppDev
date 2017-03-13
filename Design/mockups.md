@@ -1,3 +1,11 @@
+# Domain classes
+
+!(https://github.com/KerfsPJ/AppDev/blob/Design/Design/domainclasses.png)
+
+# Architecture
+
+!(https://github.com/KerfsPJ/AppDev/blob/Design/Design/architecture.png-
+
 # Mockups
 
 ## 1. Algemeen: Login scherm   
