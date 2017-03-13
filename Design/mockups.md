@@ -1,10 +1,10 @@
 # Domain classes
 
-![](https://github.com/KerfsPJ/AppDev/blob/Design/Design/domainclasses.png)
+![](http://i.imgur.com/d6DRPIa.png)
 
 # Architecture
 
-![alt tag](https://github.com/KerfsPJ/AppDev/blob/Design/Design/architecture.png)
+![alt tag](http://i.imgur.com/J6TgzIv.png)
 
 # Mockups
 
