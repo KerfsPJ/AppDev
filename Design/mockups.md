@@ -4,7 +4,7 @@
 
 # Architecture
 
-![alt tag](http://i.imgur.com/J6TgzIv.png)
+<img src="http://i.imgur.com/J6TgzIv.png"/>
 
 # Mockups
 
