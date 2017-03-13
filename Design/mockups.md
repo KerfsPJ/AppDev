@@ -4,7 +4,7 @@
 
 # Architecture
 
-![alt tag](https://github.com/KerfsPJ/AppDev/blob/Design/Design/architecture.png-
+![alt tag](https://github.com/KerfsPJ/AppDev/blob/Design/Design/architecture.png)
 
 # Mockups
 
