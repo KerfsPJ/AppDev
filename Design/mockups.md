@@ -1,6 +1,6 @@
 # Domain classes
 
-![](http://i.imgur.com/d6DRPIa.png)
+<img src="http://i.imgur.com/d6DRPIa.png"/>
 
 # Architecture
 
